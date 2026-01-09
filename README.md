@@ -19,5 +19,5 @@ In all 4-5 hours using AI.
 **Link**
 Use this [GitHub page](https://github.com/grigsbyt/usds-project).  
 
-**Screenshot** (Next Comment
-)
+**Screenshot** Attached file "Security Dashboard.jpg"
+
