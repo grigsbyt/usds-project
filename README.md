@@ -1,2 +1,0 @@
-# usds-project
-Public Facing
